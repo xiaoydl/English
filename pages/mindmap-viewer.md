@@ -2,6 +2,6 @@
 layout: mindmap
 title: mindmap
 keywords: mindmap
-description: 全屏查看脑图
+description: 
 permalink: /mindmap-viewer/
 ---
